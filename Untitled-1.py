@@ -51,4 +51,3 @@ print(x)
 x = [int(i) for i in x]
 print(x)
 print(type(x[0]))
-print((x[0]*x[1])/2)
